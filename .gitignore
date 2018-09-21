@@ -5,6 +5,7 @@
 /.groovy
 /.settings
 /target
+project/target
 .cache
 .classpath
 .project
